@@ -1,10 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * Created by Sripath Mishra on 9/8/2017.
- *
- */
+
 public class BlackBox {
     public static char box[][]; // The matrix for the game.
     public static int size;       // to store the number of rows and columns.
